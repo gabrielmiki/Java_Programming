@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Part2\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findgeneSimple(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testfindgeneSimple()
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Part2
+comment1.params=currRow\ minimumSoFar
+comment1.target=org.apache.commons.csv.CSVRecord\ getMinimumOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment2.params=parser
+comment2.target=org.apache.commons.csv.CSVRecord\ lowestHumidityInFile(org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=void\ testLowestHumidityInFile()
+comment4.params=
+comment4.target=org.apache.commons.csv.CSVRecord\ lowestHumidityInManyFiles()
+comment5.params=
+comment5.target=void\ testLowestHumidityManyFiles()
+comment6.params=parser
+comment6.target=double\ averageTemperatureInFile(org.apache.commons.csv.CSVParser)
+comment7.params=
+comment7.target=void\ testAverageTemperatureInFile()
+comment8.params=parser\ value
+comment8.target=double\ averageTemperatureInFile(org.apache.commons.csv.CSVParser,\ int)
+comment9.params=
+comment9.target=void\ testAverageTemperatureWithHighHumidityInFile()
+numComments=10
